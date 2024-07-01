@@ -1,0 +1,4 @@
+# Images
+```go
+$mkdir images
+```
